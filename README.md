@@ -1,4 +1,4 @@
-# DevTracking
+# NitinGithubTracking
 
 **NitinTracking is a powerful tool designed to streamline your GitHub user discovery experience!**
 
